@@ -231,3 +231,12 @@ For production deployment, consider adding:
 6. Scan QR codes (as operator)
 
 Enjoy exploring the Smart Bus Pass Booking System! 🚌✨
+<img width="1446" height="859" alt="image" src="https://github.com/user-attachments/assets/020b503a-deb7-4b23-b6e2-4d7a1b8441e0" />
+<img width="1498" height="865" alt="image" src="https://github.com/user-attachments/assets/ec6d1d3e-b532-4430-9924-9980d1d96837" />
+<img width="1546" height="872" alt="image" src="https://github.com/user-attachments/assets/7ff55be3-30fa-4a25-8975-56f7dc49c500" />
+<img width="891" height="849" alt="image" src="https://github.com/user-attachments/assets/d72e6372-241e-4832-bb71-d3afc8215c40" />
+<img width="890" height="808" alt="image" src="https://github.com/user-attachments/assets/012d8a62-5839-4a5e-9686-28071821117d" />
+<img width="1365" height="817" alt="image" src="https://github.com/user-attachments/assets/1a88179d-eb3f-4d9c-99de-928065666a33" />
+<img width="1363" height="840" alt="image" src="https://github.com/user-attachments/assets/f493b53d-86af-43dc-a298-45c0d547cfc0" />
+<img width="1545" height="871" alt="image" src="https://github.com/user-attachments/assets/202781df-2748-4829-8bb3-a2b582214a1e" />
+<img width="1535" height="875" alt="image" src="https://github.com/user-attachments/assets/bd93b13d-c9d6-4b82-8c2f-4a360f2c0558" />
